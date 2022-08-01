@@ -2,14 +2,13 @@
 
 ## Requirements
 
-* Auto mode
+* Requirements (must have)
    - [mythic_notify](https://github.com/dawixeuu/mythic_notify)
    - [progressbar](https://github.com/EthanPeacock/progressBars/releases/tag/1.0)
-
-* Player management (boss actions)
-   - [esx_society](https://github.com/ESX-Org/esx_society)
-   - [esx_skin](https://github.com/ESX-Org/esx_skin)
-   - [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
+   - [esx_skin](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx%5D/esx_skin) or [fivem-appearance](https://github.com/pedr0fontoura/fivem-appearance)
+* Requirements (you don't have to have)
+   - [esx_society](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_society)
+   - [esx_vehicleshop](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_vehicleshop)
 ## Download & Installation
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
