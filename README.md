@@ -3,12 +3,13 @@
 ## Requirements
 
 * Auto mode
-   - [esx_skin](https://github.com/ESX-Org/esx_skin)
-   - [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
+   - [mythic_notify]()
+   - [progressbar](https://github.com/EthanPeacock/progressBars/releases/tag/1.0)
 
 * Player management (boss actions)
    - [esx_society](https://github.com/ESX-Org/esx_society)
-
+   - [esx_skin](https://github.com/ESX-Org/esx_skin)
+   - [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
 ## Download & Installation
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
