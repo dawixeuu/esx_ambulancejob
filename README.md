@@ -3,7 +3,7 @@
 ## Requirements
 
 * Auto mode
-   - [mythic_notify]()
+   - [mythic_notify](https://github.com/dawixeuu/mythic_notify)
    - [progressbar](https://github.com/EthanPeacock/progressBars/releases/tag/1.0)
 
 * Player management (boss actions)
